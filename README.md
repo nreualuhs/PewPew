@@ -1,0 +1,1 @@
+PewPew! An amateur asteroids game! Created using Unity Game Engine in 2023 during my senior year of high school. There are some bugs in this project that I aim to fix, as well as some performance improvements as well. But feel free to contribute!
